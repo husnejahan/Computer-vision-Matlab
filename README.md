@@ -1,6 +1,7 @@
-# multi-scale sliding window face detector
+# Multi-scale sliding window face detector
 
 ##Task
+
 1.convolution in the spatial domain and convolution in the frequency domain
 
 2.Create Hybrid image
